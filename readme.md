@@ -1,4 +1,4 @@
-<p align="center>Who is stalking me?</p>
+<p align="center">Who is stalking me?</p>
 <p align="center"><img src="https://gpvc.arturio.dev/must-be-unique" alt="Visitors"></a>
 
 ```python
