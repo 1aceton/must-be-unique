@@ -1,5 +1,5 @@
 <p align="center">Who is stalking me?</p>
-![](https://gpvc.arturio.dev/must-be-unique](https://komarev.com/ghpvc/?username=must-be-unique&style=for-the-badge&color=blue&label=Stalker)
+<img src="https://komarev.com/ghpvc/?username=antonkomarev&amp;style=for-the-badge](https://gpvc.arturio.dev/must-be-unique](https://komarev.com/ghpvc/?username=must-be-unique&style=for-the-badge&color=blue&label=Stalker" style="max-width: 100%;">
 
 ```python
 Languages  :  HTML/CSS, JS (beginner), PHP (beginner), PY (beginner).
